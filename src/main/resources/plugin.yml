@@ -1,0 +1,5 @@
+name: SpigotAPI
+version: 1.0
+api-version: 1.13
+author: md_5
+main: org.spigotmc.Main
