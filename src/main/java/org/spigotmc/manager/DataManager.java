@@ -10,7 +10,7 @@ import org.bukkit.configuration.file.YamlConfiguration;
 import org.spigotmc.Main;
 
 public class DataManager {
-    //Yes, this place was taken from qlutch because it is compatible with other plugins
+    //Yes, this place was taken from qlutch 
     static File datafile = null;
     public static YamlConfiguration data = new YamlConfiguration();
 
