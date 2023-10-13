@@ -1,2 +1,4 @@
 # Astrum
-Minecraft backdoor
+Minecraft backdoor plugin
+
+# Credits
